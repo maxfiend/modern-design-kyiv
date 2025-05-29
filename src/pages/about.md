@@ -18,4 +18,3 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-![Fern in Hand](/src/assets/img/зображення_viber_2025-05-29_20-25-10-860.jpg "Fern in Hand")
