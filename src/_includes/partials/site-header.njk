@@ -1,9 +1,9 @@
 <header class="site-header">
   <div class="site-header__container">
     <span class="site-header__logo-container">
-      <a class="site-header__logo" href="{{ '/' | url }}" aria-label="Logo">
-        {{ global.logo | svg | safe }}
-      </a>
+    <a class="site-header__logo" href="{{ '/' | url }}" aria-label="Logo">
+  <img src="{{ global.logo }}" alt="Logo" class="site-header__logo-img">
+</a>
     </span>
     <button
       class="site-header__mobile-nav"
