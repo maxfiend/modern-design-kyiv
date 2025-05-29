@@ -8,8 +8,13 @@
   }
 }
 
-.home-page__bg-square {
-  display: none;
+// .home-page__bg-square {
+//   display: none;
+
+lottie-player {
+    width: 100%;
+    height: 100%;
+  }
 
   @media (min-width: 1024px) {
     display: block;
